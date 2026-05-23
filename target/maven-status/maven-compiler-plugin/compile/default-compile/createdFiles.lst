@@ -1,0 +1,4 @@
+com\homeservice\entity\User.class
+com\homeservice\enums\Role.class
+com\homeservice\repository\UserRepository.class
+com\homeservice\HomeServiceApplication.class
